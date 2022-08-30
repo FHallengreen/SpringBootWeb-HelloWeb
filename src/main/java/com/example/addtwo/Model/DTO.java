@@ -25,8 +25,4 @@ public class DTO {
         this.value_2 = value_2;
     }
 
-    public String Total(){
-        return value_1 + value_2;
-    }
-
 }
